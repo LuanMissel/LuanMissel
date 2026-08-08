@@ -104,14 +104,6 @@ $ goals --now
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LuanMissel&theme=algolia&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 🐍 Snake Contribution Animation
 
 <div align="center">
