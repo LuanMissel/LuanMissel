@@ -49,21 +49,22 @@ status: "Desenvolvendo aplicações práticas // Estudando para concursos e cert
 ## 🧩 Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/LuanMissel">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=LuanMissel&repo=LuanMisselDev&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  </a>
-  <a href="https://github.com/LuanMissel">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=LuanMissel&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/LuanMissel">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=LuanMissel&repo=automation-lab&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  </a>
-  <a href="https://github.com/LuanMissel">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=LuanMissel&repo=ai-playground&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  </a>
+  <table width="90%">
+    <tr>
+      <td align="left" valign="top" width="48%">
+        <h4>Calculadora Interativa em Java</h4>
+        <p>Aplicação console focada em Programação Orientada a Objetos: encapsulamento, associação de classes e gerenciamento de recursos. Priorizei código escalável, testável e de fácil manutenção; usei padrões simples e <code>try-finally</code> para garantir limpeza de recursos.</p>
+        <p><strong>Tecnologias:</strong> Java · POO · Testabilidade</p>
+        <p><a href="https://github.com/LuanMissel/Calculadora">Ver repositório</a></p>
+      </td>
+      <td align="left" valign="top" width="48%">
+        <h4>Sistema Bancário em Java</h4>
+        <p>Simulador de operações bancárias com foco em modelagem de domínio, tratamento de transações e robustez. Implementa fluxo de transações, tratamento de erros e sobrescrita de métodos para saída legível.</p>
+        <p><strong>Tecnologias:</strong> Java · OOP · I/O</p>
+        <p><a href="https://github.com/LuanMissel/SistemaBancario">Ver repositório</a></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 > 💡 Dica: substitua os nomes dos repositórios acima pelos seus projetos principais para cards 100% personalizados.
@@ -80,7 +81,6 @@ $ goals --now
 > [2] Integrar IA em produtos reais
 > [3] Aprimorar performance e observabilidade
 > [4] Contribuir mais com Open Source
-> [5] Construir experiências visuais memoráveis
 ```
 
 </div>
@@ -123,13 +123,10 @@ $ goals --now
 ## 🌐 Redes Sociais
 
 <div align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/luanmissel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:luan.missel.lourenco@gmail.com">
     <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
