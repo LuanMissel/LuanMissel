@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:050510,100:0f0f2d&height=220&section=header&text=LUAN%20MISSEL&fontSize=48&fontColor=00f3ff&animation=fadeIn&fontAlignY=35" width="100%" alt="Luan Missel Cyber Banner" />
 </div>
-
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00f3ff?style=for-the-badge&logo=codeforces&logoColor=black" />
   <img src="https://img.shields.io/badge/FOCUS-BACKEND_DEV-00ff66?style=for-the-badge&logo=java&logoColor=black" />
@@ -30,7 +29,7 @@ status: "Desenvolvendo aplicações práticas // Estudando para concursos e cert
 ## ⚙️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,java,spring,postgres,mysql,mongodb,docker,git,github,linux,vscode&perline=8" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=js,python,java,spring,mysql,git,github,vscode&perline=8" alt="Tech Stack"/>
 </div>
 
 ---
