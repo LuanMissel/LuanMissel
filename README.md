@@ -2,18 +2,20 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,25:111827,50:0F172A,75:1E1B4B,100:0A0A0A&text=LUAN%20MISSEL%20%7C%20AI%20SYSTEM&reversal=false&textBg=false&fontColor=00F5FF&fontAlignY=38&desc=booting%20cyberpunk%20interface...&descAlignY=55&descAlign=50&animation=fadeIn" alt="Cyber Banner"/>
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00f3ff?style=for-the-badge&logo=codeforces&logoColor=black" />
+  <img src="https://img.shields.io/badge/FOCUS-BACKEND_DEV-00ff66?style=for-the-badge&logo=java&logoColor=black" />
+  <img src="https://img.shields.io/badge/LOCATION-BRASÍLIA--DF-ff0055?style=for-the-badge&logo=compass&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F3FF&center=true&vCenter=true&width=500&lines=JAVA_+_SPRING_BOOT_DEVELOPER;SQL_SERVER_+_DATABASE_DESIGN;GIT_AND_VERSION_CONTROL;BUILDING_BACKEND_SOLUTIONS" alt="Typing SVG" />
+  </a>
+</p>
+
 <div align="center">
-
-```text
-[SYS] initializing neural core...
-[SYS] loading modules: ai • fullstack • automation • devops
-[OK ] interface online // welcome to my GitHub profile
-```
-
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+Luan+Missel.;Desenvolvedor+Full+Stack+%7C+IA+Enthusiast.;Construindo+experi%C3%AAncias+modernas+com+performance.;Welcome+to+the+future+of+my+codebase." alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+Luan+Missel.;Desenvolvedor+Backend+%7C+IA+.;Construindo+experi%C3%AAncias+modernas+com+performance.;Welcome+to+the+future+of+my+codebase." alt="Typing Animation"/>
 </div>
 
 ---
@@ -22,10 +24,11 @@
 
 ```yaml
 name: Luan Missel
-role: Full Stack Developer
-focus: [Web Apps, Automação, IA aplicada, Experiência de Produto]
-mindset: "Clean code, performance, e soluções com impacto real"
-status: "Always learning // Always building"
+role: Backend Developer
+tech_stack: [Java, Spring Boot, Maven, SQL Server, Python, Git/GitHub]
+focus: [Java, Fundamentos de Spring Boot, Banco de Dados, CI/CD]
+mindset: "Base sólida em POO, foco em boas práticas e evolução contínua"
+status: "Desenvolvendo aplicações práticas // Estudando para concursos e certificações"
 ```
 
 ---
