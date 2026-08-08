@@ -8,12 +8,6 @@
   <img src="https://img.shields.io/badge/LOCATION-BRASÍLIA--DF-ff0055?style=for-the-badge&logo=compass&logoColor=white" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F3FF&center=true&vCenter=true&width=500&lines=JAVA_+_SPRING_BOOT_DEVELOPER;SQL_SERVER_+_DATABASE_DESIGN;GIT_AND_VERSION_CONTROL;BUILDING_BACKEND_SOLUTIONS" alt="Typing SVG" />
-  </a>
-</p>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+Luan+Missel.;Desenvolvedor+Backend+%7C+IA+.;Construindo+experi%C3%AAncias+modernas+com+performance.;Welcome+to+the+future+of+my+codebase." alt="Typing Animation"/>
 </div>
