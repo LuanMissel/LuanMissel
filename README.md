@@ -51,23 +51,27 @@ status: "Desenvolvendo aplicações práticas // Estudando para concursos e cert
 <div align="center">
   <table width="90%">
     <tr>
+       <td align="left" valign="top" width="48%">
+        <h4>Viral Moment Agent</h4>
+        <p>Viral AI Moment Finder O ClipMaker é uma ferramenta de engenharia de vídeo que utiliza inteligência artificial de última geração para analisar transcrições e extrair automaticamente o segmento mais engajador (viral) de um vídeo.</p>
+        <p><strong>Tecnologias:</strong> JavaScript · Testabilidade · Deployment</p>
+        <p><a href="https://github.com/LuanMissel/Viral-Moment-Agent">Ver repositório</a></p>
+        <p><a href="https://luanmissel.github.io/Viral-Moment-Agent/">Ver página de Deployment</a></p>
+      </td>
       <td align="left" valign="top" width="48%">
         <h4>Calculadora Interativa em Java</h4>
         <p>Aplicação console focada em Programação Orientada a Objetos: encapsulamento, associação de classes e gerenciamento de recursos. Priorizei código escalável, testável e de fácil manutenção; usei padrões simples e <code>try-finally</code> para garantir limpeza de recursos.</p>
         <p><strong>Tecnologias:</strong> Java · POO · Testabilidade</p>
-        <p><a href="https://github.com/LuanMissel/Calculadora">Ver repositório</a></p>
       </td>
       <td align="left" valign="top" width="48%">
-        <h4>Sistema Bancário em Java</h4>
-        <p>Simulador de operações bancárias com foco em modelagem de domínio, tratamento de transações e robustez. Implementa fluxo de transações, tratamento de erros e sobrescrita de métodos para saída legível.</p>
-        <p><strong>Tecnologias:</strong> Java · OOP · I/O</p>
-        <p><a href="https://github.com/LuanMissel/SistemaBancario">Ver repositório</a></p>
+        <h4>To-Do-List</h4>
+        <p>Aplicação para organizar a rotina diária ou semanal, reunindo obrigações em um só lugar para evitar esquecimentos, reduzir o estresse e aumentar a produtividade.</p>
+        <p><strong>Tecnologias:</strong> Java · OOP · SpringBoot</p>
+        <p><a href="https://github.com/LuanMissel/todolist">Ver repositório</a></p>
       </td>
     </tr>
   </table>
 </div>
-
-> 💡 Dica: substitua os nomes dos repositórios acima pelos seus projetos principais para cards 100% personalizados.
 
 ---
 
