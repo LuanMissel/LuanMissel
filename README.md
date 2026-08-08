@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,25:111827,50:0F172A,75:1E1B4B,100:0A0A0A&text=LUAN%20MISSEL%20%7C%20AI%20SYSTEM&reversal=false&textBg=false&fontColor=00F5FF&fontAlignY=38&desc=booting%20cyberpunk%20interface...&descAlignY=55&descAlign=50&animation=fadeIn" alt="Cyber Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:050510,100:0f0f2d&height=220&section=header&text=LUAN%20MISSEL&fontSize=48&fontColor=00f3ff&animation=fadeIn&fontAlignY=35" width="100%" alt="Luan Missel Cyber Banner" />
 </div>
 
 <p align="center">
