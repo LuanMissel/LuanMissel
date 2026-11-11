@@ -51,6 +51,12 @@ status: "Desenvolvendo aplicações práticas // Estudando para concursos e cert
 <div align="center">
   <table width="90%">
     <tr>
+      <td align="left" valign="top" width="33%">
+        <h4>Task-Manager</h4>
+        <p>Aplicação para organizar a rotina diária ou semanal, reunindo obrigações em um só lugar para evitar esquecimentos, reduzir o estresse e aumentar a produtividade.</p>
+        <p><strong>Tecnologias:</strong> Java · OOP · SpringBoot</p>
+        <p><a href="https://github.com/LuanMissel/todolist">Ver repositório</a></p>
+      </td>
        <td align="left" valign="top" width="33%">
         <h4>Viral Moment Agent</h4>
         <p>Viral AI Moment Finder O ClipMaker é uma ferramenta de engenharia de vídeo que utiliza inteligência artificial de última geração para analisar transcrições e extrair automaticamente o segmento mais engajador (viral) de um vídeo.</p>
@@ -63,12 +69,7 @@ status: "Desenvolvendo aplicações práticas // Estudando para concursos e cert
         <p>Aplicação console focada em Programação Orientada a Objetos: encapsulamento, associação de classes e gerenciamento de recursos. Priorizei código escalável, testável e de fácil manutenção; usei padrões simples e <code>try-finally</code> para garantir limpeza de recursos.</p>
         <p><strong>Tecnologias:</strong> Java · POO · Testabilidade</p>
       </td>
-      <td align="left" valign="top" width="33%">
-        <h4>Task-Manager</h4>
-        <p>Aplicação para organizar a rotina diária ou semanal, reunindo obrigações em um só lugar para evitar esquecimentos, reduzir o estresse e aumentar a produtividade.</p>
-        <p><strong>Tecnologias:</strong> Java · OOP · SpringBoot</p>
-        <p><a href="https://github.com/LuanMissel/todolist">Ver repositório</a></p>
-      </td>
+    
     </tr>
   </table>
 </div>
