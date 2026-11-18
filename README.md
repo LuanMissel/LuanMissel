@@ -38,9 +38,7 @@ status: "Desenvolvendo aplicações práticas // Estudando para concursos e cert
 
 <div align="center">
   <img src="https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Design-Figma-1E1E2E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/API-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </div>
 
